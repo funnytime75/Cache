@@ -1,0 +1,8 @@
+LocalCache\MapCache.class
+RemoteCache\IgniteEmbedded.class
+RemoteCache\HazelcastEmbedded.class
+RemoteCache\RedisCache.class
+LocalCache\CaffeineCache.class
+LocalCache\EnCache.class
+LocalCache\GuavaCache.class
+RemoteCache\MemCache.class
